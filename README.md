@@ -4,16 +4,16 @@
 
 I'm Antoine, web developper from Valenciennes, France. I love coding, learning, and even sometime teaching coworkers or students about front-end, design and accessibility !
 
-You can find me on :
+Contacts :
 
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://antoinedangleterre.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bonjour@antoinedangleterre.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://http://fr.linkedin.com/in/antoine-dangleterre)
+[![Personnal website](https://img.shields.io/badge/Visit%20my%20personnal%20website-%20%231B4D85?style=flat-square&logo=google-chrome&logoColor=%23EAF1F6)](https://antoinedangleterre.com)
+[![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-%20%232A1B85?style=flat-square&logo=gmail&logoColor=%23EAF1F6)](mailto:bonjour@antoinedangleterre.com)
+[![Linkedin](https://img.shields.io/badge/Find%20me%20on%20LinkedIn-%20%23631B85?style=flat-square&logo=linkedin&logoColor=%23EAF1F6)](https://fr.linkedin.com/in/antoine-dangleterre)
 
 
 ## 💻 I code with...
 
-#### Languages
+#### Technos
 ![HTML 5](https://github.com/adangleterre/adangleterre/assets/45876792/7daba958-0408-4fed-b407-acfd98e86e4d)
 ![CSS 3](https://github.com/adangleterre/adangleterre/assets/45876792/5bdc1dcb-b7db-4a37-9341-ba2d36b02364)
 ![JS](https://github.com/adangleterre/adangleterre/assets/45876792/a6ff9932-bb16-4224-a526-81f90b4c4507)
@@ -22,6 +22,7 @@ You can find me on :
 ![React](https://github.com/adangleterre/adangleterre/assets/45876792/0f15baaa-ca71-492a-998f-d00ecaf9aa2d)
 ![Tailwind CSS](https://github.com/adangleterre/adangleterre/assets/45876792/3f077e10-688f-47b0-81ae-530fffa5c65f)
 ![Bootstrap](https://github.com/adangleterre/adangleterre/assets/45876792/c2afc014-67e9-4665-b125-0f8356f1b932)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 #### Versionning & hosting
@@ -34,4 +35,5 @@ You can find me on :
 ![Intellij idea](https://github.com/adangleterre/adangleterre/assets/45876792/f3411124-cd52-4ffe-b176-cb12cd05e89f)
 ![Visual Studio Code](https://github.com/adangleterre/adangleterre/assets/45876792/cd6796ca-0448-4b7d-8723-df7ce99e5eb9)
 ![Figma](https://github.com/adangleterre/adangleterre/assets/45876792/a73f8144-9420-48a3-bbff-513f29e33c11)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://github.com/adangleterre/adangleterre/assets/45876792/b727a163-640d-4fed-afac-ef1357e539a5)
