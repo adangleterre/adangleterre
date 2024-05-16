@@ -23,7 +23,9 @@ Contacts :
 ![Tailwind CSS](https://github.com/adangleterre/adangleterre/assets/45876792/3f077e10-688f-47b0-81ae-530fffa5c65f)
 ![Bootstrap](https://github.com/adangleterre/adangleterre/assets/45876792/c2afc014-67e9-4665-b125-0f8356f1b932)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
 
 #### Versionning & hosting
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
