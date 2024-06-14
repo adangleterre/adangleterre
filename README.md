@@ -2,12 +2,13 @@
 
 # Hi and welcome 👋
 
-I'm Antoine, web developper from Valenciennes, France. I love coding, learning, and even sometime teaching coworkers or students about front-end, design and accessibility !
+I'm Antoine, a front-end developper from Valenciennes, France. I love coding, learning, and even sometime teaching coworkers or students about front-end, design and accessibility ! More infos on my resume here
 
 Contacts :
 
-[![Personnal website](https://img.shields.io/badge/Visit%20my%20personnal%20website-%20%231B4D85?style=flat-square&logo=google-chrome&logoColor=%23EAF1F6)](https://antoinedangleterre.com)
+[![Resume](https://img.shields.io/badge/Take%20a%20lookt%20at%20my%20resume-%20%231E4D85?style=flat-square&logo=CV&logoColor=%23EAF1F6)](https://drive.google.com/file/d/1tjdjfRHZ6Q07skRe19hsihYCxvw4dIuU/view?usp=sharing)
 [![Static Badge](https://img.shields.io/badge/Send%20me%20an%20email-%20%232A1B85?style=flat-square&logo=gmail&logoColor=%23EAF1F6)](mailto:bonjour@antoinedangleterre.com)
+[![Personnal website](https://img.shields.io/badge/Visit%20my%20personnal%20website-%20%231B4D85?style=flat-square&logo=google-chrome&logoColor=%23EAF1F6)](https://antoinedangleterre.com)
 [![Linkedin](https://img.shields.io/badge/Find%20me%20on%20LinkedIn-%20%23631B85?style=flat-square&logo=linkedin&logoColor=%23EAF1F6)](https://fr.linkedin.com/in/antoine-dangleterre)
 
 
