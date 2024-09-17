@@ -21,6 +21,7 @@ Contacts :
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://github.com/adangleterre/adangleterre/assets/45876792/6794dcd6-6f38-4f39-bc37-f0dee5f5eb54)
 ![React](https://github.com/adangleterre/adangleterre/assets/45876792/0f15baaa-ca71-492a-998f-d00ecaf9aa2d)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Tailwind CSS](https://github.com/adangleterre/adangleterre/assets/45876792/3f077e10-688f-47b0-81ae-530fffa5c65f)
 ![Bootstrap](https://github.com/adangleterre/adangleterre/assets/45876792/c2afc014-67e9-4665-b125-0f8356f1b932)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
